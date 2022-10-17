@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-car",
+        "title": "Civil construction and carparks",
+        "content": ""
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-way",
+        "title": "Footpath and road reconstruction",
+        "content": ""
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-attention",
+        "title": "Cocreting, kerb and guttering works",
+        "content": ""
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-drop",
+        "title": "Storm water works",
+        "content": ""
+    }
+]

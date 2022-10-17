@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "smallTitle": "About Us",
+  "title": "Our Company",
+  "content": "Urban Infrastructure (UI) is a young, dynamic construction company based in Western Sydney, NSW. Our team of industry experts put many years of experience at your disposal and are passionate about delivering superior results with integrity.",
+  "image": "/img/urban-infra-assets/uni-of-wollongong/2.jpg",
+  "stauts": [
+    { "id": 1, "number": "3", "letter": "K", "stautsName": "Happy Clients" },
+    { "id": 2, "number": "14", "letter": "K", "stautsName": "Successful Projects" }
+  ]
+}

@@ -11,7 +11,7 @@ const SkillsCircle = ({ from, theme }) => {
       stroke: theme ? (theme == 'dark' ? '#0f1013' : '#e5e5e5') : '',
     },
     text: {
-      fill: theme ? (theme == 'dark' ? '#ffffff' : '#4e4e4e') : '',
+      fill: theme ? (theme == 'dark' ? '#e2dede' : '#4e4e4e') : '',
       // Text size
       fontSize: '16px',
     },

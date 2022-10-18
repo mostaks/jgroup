@@ -48,7 +48,7 @@ const particlesBlackConfig = {
     line_linked: {
       enable: false,
       distance: 150,
-      color: "#ffffff",
+      color: "#e2dede",
       opacity: 0.4,
       width: 1,
     },

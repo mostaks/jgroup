@@ -1,5 +1,5 @@
 {
-  "name": "urban-infrastructure",
+  "name": "jgroup",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

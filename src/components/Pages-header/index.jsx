@@ -16,7 +16,7 @@ const PagesHeader = () => (
         <div className="col-lg-10">
           <div className="img">
             <img
-              src="/img/urban-infra-assets/norwest-driving-range/2.jpg"
+              src="/img/jgroup/IMG_0017.jpg"
               alt=""
             />
           </div>

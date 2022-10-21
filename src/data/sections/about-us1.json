@@ -2,8 +2,8 @@
   "id": 1,
   "smallTitle": "About Us",
   "title": "Our Company",
-  "content": "Urban Infrastructure (UI) is a young, dynamic construction company based in Western Sydney, NSW. Our team of industry experts put many years of experience at your disposal and are passionate about delivering superior results with integrity.",
-  "image": "/img/urban-infra-assets/uni-of-wollongong/2.jpg",
+  "content": "J GROUP (J Group Corporation) was established in 1961, as a locally based sewer, water and stormwater civil construction and sub-divisional contractor.Over the past 59 years, J GROUP has earned widespread acclaim and recognition as one of the leading civil infrastructure construction companies in NSW. With a history of major projects successfully completed throughout Northern & Southern NSW Sydney, Illawarra and Blue Mountain areas, J GROUP quickly developed a reputation for delivering on time and within budget. J GROUP has worked hard to achieve and maintain a reputation for excellence in all of its civil construction, engineering and trench less activities.",
+  "image": "/img/uni-of-wollongong/2.jpg",
   "stauts": [
     { "id": 1, "number": "3", "letter": "K", "stautsName": "Happy Clients" },
     { "id": 2, "number": "14", "letter": "K", "stautsName": "Successful Projects" }

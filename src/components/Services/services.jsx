@@ -14,7 +14,7 @@ const Services = ({ style, lines }) => (
             <h6 className="wow fadeIn" data-wow-delay=".5s">
               Welcome to
             </h6>
-            <h3 className="wow color-font">Urban Infrastructure</h3>
+            <h3 className="wow color-font">J Group</h3>
           </div>
         </div>
       </div>

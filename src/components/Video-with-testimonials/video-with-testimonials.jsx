@@ -25,7 +25,7 @@ const VideoWithTestimonials = () => {
         className="background bg-img pt-100 pb-0 parallaxie"
         style={{
           backgroundImage:
-            'url(/img/urban-infra-assets/randwick-racecourse-atc/2.jpg)',
+            'url(/img/IMG_0018.jpg)',
         }}
         data-overlay-dark="5"
       >
@@ -39,7 +39,7 @@ const VideoWithTestimonials = () => {
                     <ModalVideo
                       channel="custom"
                       isOpen={isOpen}
-                      url="/img/urban-infra-assets/randwick-racecourse-atc/90.mp4"
+                      url="/img/randwick-racecourse-atc/90.mp4"
                       onClose={() => setOpen(false)}
                     />
                   )}
@@ -88,9 +88,9 @@ const VideoWithTestimonials = () => {
                       </div>
                       <div className="cont">
                         <div className="author">
-                          <h6 className="author-name ">Ryan Burgmann</h6>
+                          <h6 className="author-name ">Spiro Apokis</h6>
                           <span className="author-details">
-                            Director, Urban Infrastructure
+                            Director, J Group
                           </span>
                         </div>
                       </div>

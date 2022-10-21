@@ -3,56 +3,56 @@
         "id": 1,
         "secTex": "Bankstown Airport",
         "title": "Civil",
-        "image": "/img/urban-infra-assets/bankstown-airport/3.jpg",
+        "image": "/img/IMG_0013.jpg",
         "slug": "/project-details2/project-details2-dark"
     },
     {
         "id": 2,
         "secTex": "BUPA Sutherland",
         "title": "Carparks",
-        "image": "/img/urban-infra-assets/bupa-sutherland/3.jpg",
+        "image": "/img/IMG_0013.jpg",
         "slug": "/project-details2/project-details2-dark"
     },
     {
         "id": 3,
         "secTex": "CHL Norwest (Richard Crookes)",
         "title": "Footpath",
-        "image": "/img/urban-infra-assets/chl-norwest-richard-crookes/2.jpg",
+        "image": "/img/IMG_0013.jpg",
         "slug": "/project-details2/project-details2-dark"
     },
     {
         "id": 4,
         "secTex": "Morling College",
         "title": "Civil roadworks",
-        "image": "/img/urban-infra-assets/morling-college/1.jpg",
+        "image": "/img/IMG_0013.jpg",
         "slug": "/project-details2/project-details2-dark"
     },
     {
         "id": 5,
         "secTex": "Norwest Driving Range",
         "title": "Civil construction",
-        "image": "/img/urban-infra-assets/norwest-driving-range/4.JPG",
+        "image": "/img/IMG_0013.jpg",
         "slug": "/project-details2/project-details2-dark"
     },
     {
         "id": 6,
         "secTex": "Randwick Racecourse (ATC)",
         "title": "Road restoration",
-        "image": "/img/urban-infra-assets/randwick-racecourse-atc/3.jpg",
+        "image": "/img/IMG_0013.jpg",
         "slug": "/project-details2/project-details2-dark"
     },
     {
         "id": 7,
         "secTex": "Redeemer Baptist School",
         "title": "Restoration works",
-        "image": "/img/urban-infra-assets/redeemer-baptist-school/2.jpg",
+        "image": "/img/IMG_0013.jpg",
         "slug": "/project-details2/project-details2-dark"
     },
     {
         "id": 8,
         "secTex": "University of Wollongong",
         "title": "Streetscapes",
-        "image": "/img/urban-infra-assets/uni-of-wollongong/1.jpg",
+        "image": "/img/IMG_0013.jpg",
         "slug": "/project-details2/project-details2-dark"
     }
 ]

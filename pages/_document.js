@@ -17,16 +17,16 @@ class MyDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="keywords"
-            content="Urban Infrastructure pty ltd Australian Civil Construction Company"
+            content="J Group Corporation"
           />
           <meta
             name="description"
-            content="Urban Infrastructure pty ltd Australian Civil Construction Company"
+            content="J Group Corporation"
           />
           <meta name="author" content="" />
           <link
             rel="shortcut icon"
-            href="/img/urban-infra-assets/ui-favicon.png"
+            href="/img/ui-favicon.png"
           />
           <link
             href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"

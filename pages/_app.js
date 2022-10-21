@@ -11,9 +11,9 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>
-          Urban Infrastructure Pty Ltd An Australian Civil Construction Company
+          J Group Corporation
         </title>
-        <link rel="icon" href="/img/urban-infra-assets/ui-favicon.png" />
+        <link rel="icon" href="/img/ui-favicon.png" />
       </Head>
       <Cursor />
       <LoadingScreen />

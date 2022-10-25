@@ -1,7 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
 import Script from 'next/script';
-import Cursor from '../src/components/cursor';
 import ScrollToTop from '../src/components/scrollToTop';
 import LoadingScreen from '../src/components/Loading-Screen';
 import '../src/styles/main.scss';
@@ -15,7 +14,6 @@ function MyApp({ Component, pageProps }) {
         </title>
         <link rel="icon" href="/img/ui-favicon.png" />
       </Head>
-      <Cursor />
       <LoadingScreen />
       <Component {...pageProps} />
       <ScrollToTop />

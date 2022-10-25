@@ -25,7 +25,7 @@ const VideoWithTestimonials = () => {
         className="background bg-img pt-100 pb-0 parallaxie"
         style={{
           backgroundImage:
-            'url(/img/IMG_0018.jpg)',
+            'url(/img/jgroup/IMG_0018.jpg)',
         }}
         data-overlay-dark="5"
       >

@@ -2538,15 +2538,6 @@ span:hover {
   -webkit-text-stroke: 0.5px #fff;
 }
 
-.slider .swiper-pagination-fraction.top .swiper-pagination-current:after {
-  content: "/";
-  color: #fff;
-  position: relative;
-  margin: 0 10px;
-  font-size: 12px;
-  font-weight: 100;
-}
-
 .slider .swiper-pagination-fraction.top.botm {
   top: auto;
   bottom: 40px;

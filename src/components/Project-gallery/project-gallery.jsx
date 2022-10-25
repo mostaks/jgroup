@@ -5,19 +5,19 @@ const ProjectGallery = () => (
     <div className="popup-img">
       <div className="row">
         <a href="#" className="col-md-3 popimg">
-          <img alt="" src="/img/portfolio/project2/1.jpg" />
+          <img alt="" src="/img/jgroup/IMG_0002.jpg" />
         </a>
         <a href="#" className="col-md-3 popimg">
-          <img alt="" src="/img/portfolio/project2/2.jpg" />
+          <img alt="" src="/img/jgroup/IMG_0003.jpg" />
         </a>
         <a href="#" className="col-md-3 popimg">
-          <img alt="" src="/img/portfolio/project2/3.jpg" />
+          <img alt="" src="/img/jgroup/IMG_0004.jpg" />
         </a>
         <a href="#" className="col-md-3 popimg">
-          <img alt="" src="/img/portfolio/project2/5.jpg" />
+          <img alt="" src="/img/jgroup/IMG_0005.jpg" />
         </a>
         <a href="#" className="col-md-12 popimg">
-          <img alt="" src="/img/portfolio/project2/7.jpg" />
+          <img alt="" src="/img/jgroup/IMG_0006.jpg" />
         </a>
       </div>
     </div>

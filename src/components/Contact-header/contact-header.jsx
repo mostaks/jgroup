@@ -9,7 +9,7 @@ const ContactHeader = ({ sliderRef, blackStar }) => (
     <div className="container">
       <div className="row justify-content-center">
         <div className="col-lg-9 col-md-11">
-          <div className="capt">
+          <div className="">
             <div className="text-center">
               <h1 className="color-font mb-10 fw-700">
                 {ContentHeaderDate.title.first}

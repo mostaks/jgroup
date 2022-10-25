@@ -17,54 +17,24 @@ const Footer = ({ hideBGCOLOR }) => (
                 <span className="icon pe-7s-map-marker" />
                 <div className="cont">
                   <h6>Address</h6>
-                  <p>504 White St . Dawsonville, GA 30534 , New York</p>
+                  <p>Po Box 4088, Penrith Plaza NSW 2750</p>
                 </div>
               </li>
               <li>
                 <span className="icon pe-7s-mail" />
                 <div className="cont">
                   <h6>Email Us</h6>
-                  <p>support@gmail.com</p>
+                  <p>reception@jgcorp.com.au</p>
                 </div>
               </li>
               <li>
                 <span className="icon pe-7s-call" />
                 <div className="cont">
                   <h6>Call Us</h6>
-                  <p>+87986451666</p>
+                  <p>(02) 47322 877</p>
                 </div>
               </li>
             </ul>
-          </div>
-        </div>
-        <div className="col-lg-4">
-          <div className="item">
-            <div className="logo">
-              <img src={appData.lightLogo} alt="" />
-            </div>
-            <div className="social">
-              <a href="#0">
-                <i className="fab fa-facebook-f" />
-              </a>
-              <a href="#0">
-                <i className="fab fa-twitter" />
-              </a>
-              <a href="#0">
-                <i className="fab fa-instagram" />
-              </a>
-              <a href="#0">
-                <i className="fab fa-youtube" />
-              </a>
-            </div>
-            <div className="copy-right">
-              <p>
-                © 2022, Vie Template. Made with passion by
-                <Link href="https://themeforest.net/user/themescamp/portfolio">
-                  <a target="_blank">ThemesCamp</a>
-                </Link>
-                .
-              </p>
-            </div>
           </div>
         </div>
       </div>
